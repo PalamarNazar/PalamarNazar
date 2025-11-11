@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 Сейчас я работаю над улучшением своих навыков и созданием собственных проектов.
 - 🌱 Изучаю JavaScript, и продвигаюсь по HTML и CSS.
 - 💬 Можно спросить меня о веб-разработке, технологиях и решении задач.
-- 📫 Как со мной связаться: <p align="center"><a href="mailto: nazarpalamar@gmail.com"><imgsrc="https://img.shields.io/badge/My%20Gmail%20%20rgba(214%2C%2043%2C%2043%2C%201)style=flat&logoSize=auto&link=nazarpalamar%40gmail.com"alt="MyGmail"></a></p>
+- 📫 Как со мной связаться: <p align="center"><a href="mailto: nazarpalamar@gmail.com"><img src="https://img.shields.io/badge/My%20Gmail%20%20rgba(214%2C%2043%2C%2043%2C%201)style=flat&logoSize=auto&link=nazarpalamar%40gmail.com" alt="MyGmail"></a></p>
 - 😄 Pronouns: ...
 - ⚡ Интересный факт: люблю решать логические головоломки
       и осваивать новые языки программирования.
