@@ -7,7 +7,7 @@
 - 🔭 Сейчас я работаю над улучшением своих навыков и созданием собственных проектов.
 - 🌱 Изучаю JavaScript, и продвигаюсь по HTML и CSS.
 - 💬 Можно спросить меня о веб-разработке, технологиях и решении задач.
-- 📫 Как со мной связаться: <a href="mailto:nazarpalamar@gmail.com"><img src="https://img.shields.io/badge/My%20Gmail-%20red?logo=gmail&logoColor=white"></a> <a href="https://t.me/FudjitOOra"><img src="https://img.shields.io/badge/Telegram-%20rgb(52%20144%20236)?logo=telegram&logoColor=white"></a>
+- 📫 Как со мной связаться:&nbsp;&nbsp;<a href="mailto:nazarpalamar@gmail.com"><img src="https://img.shields.io/badge/My%20Gmail-%20red?logo=gmail&logoColor=white"></a> <a href="https://t.me/FudjitOOra"><img src="https://img.shields.io/badge/Telegram-%20rgb(52%20144%20236)?logo=telegram&logoColor=white"></a>
 - 😄 Pronouns: ...
 - ⚡ Интересный факт: люблю решать логические головоломки
       и осваивать новые языки программирования.
