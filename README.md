@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 Сейчас я работаю над улучшением своих навыков и созданием собственных проектов.
 - 🌱 Изучаю JavaScript, и продвигаюсь по HTML и CSS.
 - 💬 Можно спросить меня о веб-разработке, технологиях и решении задач.
-- 📫 Как со мной связаться: mail![Static Badge](https://img.shields.io/badge/nzarpalamar46%40gmail.com?style=social&logoColor=linear-gradient(90deg%2Crgba(194%2C%2095%2C%2041%2C%201)%2013%25%2C%20rgba(214%2C%2043%2C%2043%2C%201)%2081%25)%3B&logoSize=50px%2020px).
+- 📫 Как со мной связаться: mail  ![Static Badge]
 - 😄 Pronouns: ...
 - ⚡ Интересный факт: люблю решать логические головоломки
       и осваивать новые языки программирования.
