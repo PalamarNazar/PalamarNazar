@@ -20,6 +20,8 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 50px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" style="width: 36px;">&nbsp;
             <img src="https://iconape.com/wp-content/png_logo_vector/javascript-logo.png" style="width: 36px;">
+            <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" style="width: 45px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" style="width: 45px;">
       </div>
 </div>
 
