@@ -34,9 +34,8 @@ I build fast, responsive web apps and landing pages with **React, Next.js and Ty
 📫 Contact me:  
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/19e7c8c8-22c3-4253-939b-7dddc5a5fc9c" />&nbsp;&nbsp;[GitHub](https://github.com/PalamarNazar/)
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6b9fe2b3-207e-4c13-854d-4f10eb46b3b7" />&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/nazar-palamar-86a5a3399/)
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d8b6409c-3768-4887-9545-91dd2a3a7718" />&nbsp;&nbsp;[Telegram](https://t.me/FudjitOOra)
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d8b6409c-3768-4887-9545-91dd2a3a7718" />&nbsp;&nbsp;[Telegram](https://t.me/F404O)
 - ✉️ nazarpalamar46@gmail.com
-- 📄 [CV](ссылка-на-резюме)
 
 ---
 
